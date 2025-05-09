@@ -32,8 +32,5 @@
 ## Beware of False Positives
 Some antivirus software may flag the compiled executable as a false positive. This is because the tool makes system-level changes (like deleting temporary files or disabling startup applications), which can be seen as suspicious activity by certain antivirus programs. Please ensure to whitelist the file or scan with other antivirus software if necessary.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Explanation:
 **Beware of False Positives**: Added a section about how antivirus software might flag the executable as suspicious due to its system-level actions. It also encourages users to whitelist the file or scan with other antivirus software if necessary.
