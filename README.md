@@ -16,7 +16,7 @@
 
 ## How to Use
 
-1. **Download** the executable `.exe` file from the [Releases](https://github.com/yourusername/9M2PJU-Windows-Optimizer/releases) page.
+1. **Download** the executable `.exe` file from the [Releases](https://github.com/9M2PJU/9M2PJU-Windows-Optimizer/releases) page.
 2. **Run** the `9M2PJU-Windows-Optimizer.exe` file as Administrator.
 3. The GUI will open with four main buttons:
    - **Clean Temp Files**: Removes temporary files from the system.
