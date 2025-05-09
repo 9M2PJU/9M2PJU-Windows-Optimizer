@@ -31,15 +31,15 @@
 ![image](https://github.com/user-attachments/assets/d8bad192-0e74-4437-82af-7c9c85a4c42b)
 
 
-Beware of False Positives
+## Beware of False Positives
 Some antivirus software may flag the compiled executable as a false positive. This is because the tool makes system-level changes (like deleting temporary files or disabling startup applications), which can be seen as suspicious activity by certain antivirus programs. Please ensure to whitelist the file or scan with other antivirus software if necessary.
 
 If you encounter this issue, please report it, and we'll work to resolve any concerns.
 
-Contributions
+## Contributions
 Feel free to fork this repository and create pull requests for improvements or bug fixes. All contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
