@@ -12,7 +12,6 @@
 ## Requirements
 
 - Windows OS
-- PowerShell (comes pre-installed with Windows)
 
 ## How to Use
 
